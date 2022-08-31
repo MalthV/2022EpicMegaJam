@@ -3694,3 +3694,352 @@ BP_MainCharacter_C.InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_19
 [2022.08.31-19.07.53:586][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
 [2022.08.31-19.07.53:595][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
 [2022.08.31-19.07.53:630][293]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2022.08.31-19.09.50:486][743]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.09.50:581][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.08.31-19.09.50:879][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.09.50:913][756]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.09.50:914][756]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacter415E25004824DD6BDAC5E8AFAD56ABA5.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.09.50:932][756]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.09.50:932][756]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.10.44:802][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.10.44:836][615]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.10.44:836][615]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacterC0611EFE40C4F17C5C7617BC6CA34B7F.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.10.44:852][615]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.10.44:852][615]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.11.38:924][409]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.11.39:019][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.08.31-19.11.39:529][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.11.39:563][444]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.11.39:563][444]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacterE59C9DA34C4987032AC93BA5CE190645.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.11.39:581][444]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.11.39:581][444]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.11.44:781][976]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.11.44:874][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.08.31-19.11.45:260][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.11.45:294][  0]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.11.45:294][  0]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacterB6395E9E4ED82518152E518DA327981D.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.11.45:312][  0]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.11.45:312][  0]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.12.43:112][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.08.31-19.12.43:162][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Map_HeavenlyHell/2/GY/639GOTW7VFQZ55J1X1TI9I_Auto1
+[2022.08.31-19.12.43:162][621]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/639GOTW7VFQZ55J1X1TI9I_Auto126D0718B4FCB02089A2313B1BCC1A6B2.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Map_HeavenlyHell/2/GY/639GOTW7VFQZ55J1X1TI9I_Auto1.uasset'
+[2022.08.31-19.12.43:162][621]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Map_HeavenlyHell' took 0.105
+[2022.08.31-19.12.43:162][621]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.105
+[2022.08.31-19.15.50:874][202]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.15.50:975][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.08.31-19.15.51:372][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.15.51:407][223]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.15.51:407][223]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacterAD571A8A45533A617038A8895023F1FF.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.15.51:426][223]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.15.51:426][223]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.19.55:421][751]LogEditorTransaction: Undo Move Nodes
+[2022.08.31-19.19.55:560][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_80:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.31-19.20.44:981][484]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.20.45:111][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.08.31-19.20.45:737][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.20.45:776][528]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.20.45:776][528]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacter955CC13A4AD1EDFC45DA1DA1A4316EEC.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.20.45:791][528]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.20.45:791][528]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.20.53:793][354]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRun.BS1D_Light_IdleWalkRun
+[2022.08.31-19.20.53:793][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-19.20.53:802][354]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.31-19.20.53:995][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-19.20.54:177][354]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2022.08.31-19.20.54:204][354]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.31-19.21.01:579][190]LoadErrors: Error: BlendSpace BS1D_Light_IdleWalkRun has sample Light_Anim_Run_Backwards that is invalid due to being out of bounds. Recommend adjusting it.
+[2022.08.31-19.21.01:604][190]LoadErrors: Error: BlendSpace BS1D_Light_IdleWalkRun has sample Light_Anim_Walk_Backwards that is invalid due to being out of bounds. Recommend adjusting it.
+[2022.08.31-19.21.09:279][784]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRun
+[2022.08.31-19.21.09:279][784]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/BS1D_Light_IdleWalkRun8CD89F3542E35933172C6E8D0C1C504A.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRun.uasset'
+[2022.08.31-19.21.09:307][784]AssetCheck: New page: Asset Save: BS1D_Light_IdleWalkRun
+[2022.08.31-19.21.09:307][784]LogContentValidation: Display: Validating BlendSpace1D /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRun.BS1D_Light_IdleWalkRun
+[2022.08.31-19.21.11:828][976]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.21.11:929][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.31-19.21.12:254][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.21.12:346][987]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.21.12:346][987]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacter40E27EF8472F598AB28C44B1CCD590FD.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.21.12:370][987]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.21.12:370][987]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.21.23:000][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.08.31-19.21.23:087][ 70]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Map_HeavenlyHell/2/GY/639GOTW7VFQZ55J1X1TI9I
+[2022.08.31-19.21.23:087][ 70]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/639GOTW7VFQZ55J1X1TI9I1915B0AA4812741B39C285A730F891D0.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/__ExternalActors__/ThirdPerson/Maps/Map_HeavenlyHell/2/GY/639GOTW7VFQZ55J1X1TI9I.uasset'
+[2022.08.31-19.21.23:116][ 70]AssetCheck: New page: Asset Save: PlayerStart_0
+[2022.08.31-19.21.23:116][ 70]LogContentValidation: Display: Validating PlayerStart /Game/ThirdPerson/Maps/Map_HeavenlyHell.Map_HeavenlyHell:PersistentLevel.PlayerStart_0
+[2022.08.31-19.21.52:619][297]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.21.52:712][297]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/Map_HeavenlyHell.Map_HeavenlyHell:PersistentLevel.ExponentialHeightFog_UAID_18C04D3ACB050B3201_1847201896 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/Map_HeavenlyHell/D/AZ/J6KYTECYLOPGJQT7Y6YQSV.PackageMetaData in its package
+[2022.08.31-19.21.52:717][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.08.31-19.21.52:831][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.08.31-19.21.53:165][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.21.53:252][327]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.21.53:253][327]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacter61CDF54F417E2EED7F94F5AC0F055763.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.21.53:270][327]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.21.53:270][327]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.21.59:081][986]LogEditorTransaction: Undo Move Node
+[2022.08.31-19.21.59:317][986]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_80:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.31-19.21.59:320][986]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.31-19.21.59:335][986]LoadErrors: Error: BlendSpace BS1D_Light_IdleWalkRun has sample Light_Anim_Run_Backwards that is invalid due to being out of bounds. Recommend adjusting it.
+[2022.08.31-19.21.59:353][986]LoadErrors: Error: BlendSpace BS1D_Light_IdleWalkRun has sample Light_Anim_Walk_Backwards that is invalid due to being out of bounds. Recommend adjusting it.
+[2022.08.31-19.22.01:627][162]LogEditorTransaction: Undo Delete current selection
+[2022.08.31-19.22.01:860][162]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_80:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.31-19.22.01:863][162]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.31-19.22.05:472][404]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.22.05:573][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.08.31-19.22.06:043][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.22.06:083][430]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.22.06:084][430]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacter0929DF82498367F673F810BFC84F81A5.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.22.06:112][430]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.22.06:112][430]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.22.14:497][ 75]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRun
+[2022.08.31-19.22.14:497][ 75]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/BS1D_Light_IdleWalkRun3E0CDC59422F027A877DE1B47AEB2676.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRun.uasset'
+[2022.08.31-19.22.14:520][ 75]AssetCheck: New page: Asset Save: BS1D_Light_IdleWalkRun
+[2022.08.31-19.22.14:520][ 75]LogContentValidation: Display: Validating BlendSpace1D /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRun.BS1D_Light_IdleWalkRun
+[2022.08.31-19.22.15:294][137]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2022.08.31-19.22.15:294][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.31-19.22.15:359][137]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2022.08.31-19.22.15:359][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.31-19.22.21:954][665]LogContentBrowser: Deferred new asset file creation: BS1D_Light_IdleWalkRun1
+[2022.08.31-19.22.21:957][665]LogContentBrowser: Creating deferred item: BS1D_Light_IdleWalkRun1
+[2022.08.31-19.22.21:974][666]LogContentBrowser: Renaming the item being created (Deferred Item: BS1D_Light_IdleWalkRun1).
+[2022.08.31-19.22.22:555][708]LogContentBrowser: Attempting asset rename: BS1D_Light_IdleWalkRun1 -> BS1D_Light_IdleWalkRun1
+[2022.08.31-19.22.22:556][708]LoadErrors: Error: BlendSpace BS1D_Light_IdleWalkRun1 has sample Light_Anim_Run_Backwards that is invalid due to being out of bounds. Recommend adjusting it.
+[2022.08.31-19.22.22:582][708]LoadErrors: Error: BlendSpace BS1D_Light_IdleWalkRun1 has sample Light_Anim_Walk_Backwards that is invalid due to being out of bounds. Recommend adjusting it.
+[2022.08.31-19.22.22:611][708]LogContentBrowser: End creating deferred item BS1D_Light_IdleWalkRun1
+[2022.08.31-19.22.27:916][ 53]LogContentBrowser: Attempting asset rename: BS1D_Light_IdleWalkRun1 -> BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.22.28:014][ 53]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.22.28:014][ 53]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/BS1D_Light_IdleWalkRunBackwards887F1F0941135839A6E4C390F4029680.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards.uasset'
+[2022.08.31-19.22.28:101][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.08.31-19.22.28:162][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.08.31-19.22.28:213][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.08.31-19.22.28:224][ 53]AssetCheck: New page: Asset Save: BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.22.28:225][ 53]LogContentValidation: Display: Validating BlendSpace1D /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards.BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.22.29:458][136]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards.BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.22.29:458][136]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-19.22.29:485][136]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.31-19.22.29:667][136]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-19.22.29:691][136]LoadErrors: Error: BlendSpace BS1D_Light_IdleWalkRunBackwards has sample Light_Anim_Run_Backwards that is invalid due to being out of bounds. Recommend adjusting it.
+[2022.08.31-19.22.29:702][136]LoadErrors: Error: BlendSpace BS1D_Light_IdleWalkRunBackwards has sample Light_Anim_Walk_Backwards that is invalid due to being out of bounds. Recommend adjusting it.
+[2022.08.31-19.22.29:934][136]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2022.08.31-19.22.29:967][136]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.31-19.22.39:819][829]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2022.08.31-19.22.44:392][ 30]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.22.44:392][ 30]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/BS1D_Light_IdleWalkRunBackwardsF46792994D157DC212EA07A4A282B234.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards.uasset'
+[2022.08.31-19.22.44:438][ 30]AssetCheck: New page: Asset Save: BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.22.44:438][ 30]LogContentValidation: Display: Validating BlendSpace1D /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards.BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.22.47:147][150]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRun.BS1D_Light_IdleWalkRun
+[2022.08.31-19.23.02:916][191]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRun
+[2022.08.31-19.23.02:917][191]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/BS1D_Light_IdleWalkRunA88BCBAB465AB8F34CF6BDBC0DCB1373.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRun.uasset'
+[2022.08.31-19.23.02:934][191]AssetCheck: New page: Asset Save: BS1D_Light_IdleWalkRun
+[2022.08.31-19.23.02:934][191]LogContentValidation: Display: Validating BlendSpace1D /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRun.BS1D_Light_IdleWalkRun
+[2022.08.31-19.23.19:020][442]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.23.19:020][442]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/BS1D_Light_IdleWalkRunBackwards50B771E643533BAC237E1CB028667664.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards.uasset'
+[2022.08.31-19.23.19:040][442]AssetCheck: New page: Asset Save: BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.23.19:040][442]LogContentValidation: Display: Validating BlendSpace1D /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards.BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.24.04:549][481]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.24.04:549][481]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/BS1D_Light_IdleWalkRunBackwards49CCB18F4F435ED91BD46FB32BCB8ACC.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards.uasset'
+[2022.08.31-19.24.04:569][481]AssetCheck: New page: Asset Save: BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.24.04:569][481]LogContentValidation: Display: Validating BlendSpace1D /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards.BS1D_Light_IdleWalkRunBackwards
+[2022.08.31-19.24.05:678][580]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2022.08.31-19.24.05:678][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.31-19.24.05:796][580]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2022.08.31-19.24.05:796][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.31-19.24.24:348][667]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.24.24:460][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.08.31-19.24.24:981][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.24.25:023][711]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.24.25:023][711]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacterBBF7122D45A8FE311AF805810BC55202.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.24.25:041][711]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.24.25:041][711]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.24.50:033][391]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.24.50:134][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.08.31-19.24.50:498][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.24.50:542][415]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.24.50:543][415]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacterCD1EDBCA4555C8753410C5A11D7B1850.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.24.50:560][415]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.24.50:560][415]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.25.05:940][ 98]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.25.05:951][ 98]LogBlueprint: Warning: [AssetLog] D:\Epic\Projects\2022EpicMegaJam\MegaJam\Content\Characters\NPCs\Light\SM_MainCharacter.uasset: [Compiler] Walk/Run(R) to Walk/RunL  will never be taken, please connect something to  Can Enter Transition
+[2022.08.31-19.25.06:046][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.08.31-19.25.06:381][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.25.06:429][117]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.25.06:429][117]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacter1A2B765247619AEB9AAD629496A6CBD0.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.25.06:446][117]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.25.06:447][117]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.25.12:381][742]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.25.12:482][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.08.31-19.25.12:864][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.25.12:912][766]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.25.12:912][766]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacter717A809649F1CF4DAC88628DA13F71B6.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.25.12:936][766]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.25.12:936][766]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.25.16:841][198]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.31-19.25.17:162][226]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2022.08.31-19.25.24:093][807]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.25.24:200][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.08.31-19.25.24:745][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.25.24:799][839]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.25.24:800][839]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacterF37B4643402ED93BB7BD2CA3779F3B69.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.25.24:817][839]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.25.24:817][839]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.25.29:312][216]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.31-19.25.29:320][216]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.31-19.25.29:320][216]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.31-19.25.29:320][216]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.31-19.25.29:320][216]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.31-19.25.29:320][216]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.31-19.25.29:320][216]LogWorldPartition: Display: GetPartitionedActors took 60 us
+[2022.08.31-19.25.29:320][216]LogWorldPartition: Display: GenerateStreaming took 295 us
+[2022.08.31-19.25.29:321][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.31-19.25.29:321][216]PIE: New page: PIE session: Map_HeavenlyHell (Aug 31, 2022, 1:25:29 PM)
+[2022.08.31-19.25.29:321][216]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Map_HeavenlyHell
+[2022.08.31-19.25.29:329][216]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.31-19.25.29:329][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008058s)
+[2022.08.31-19.25.29:329][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Map_HeavenlyHell.Map_HeavenlyHell to /Game/ThirdPerson/Maps/UEDPIE_0_Map_HeavenlyHell.Map_HeavenlyHell (0.008130s)
+[2022.08.31-19.25.29:329][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-19.25.29:329][216]LogAIModule: Creating AISystem for world Map_HeavenlyHell
+[2022.08.31-19.25.29:330][216]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.31-19.25.29:330][216]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.31-19.25.29:332][216]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.08.31-19.25.29:332][216]LogPlayLevel: PIE: World Init took: (0.002978s)
+[2022.08.31-19.25.29:382][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.31-19.25.29:386][216]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.08.31-19.25.29:386][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.31-19.25.29:386][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.31-19.25.29:386][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.31-19.25.29:386][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.31-19.25.29:386][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.31-19.25.29:386][216]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.31-19.25.29:386][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.31-19.25.29:386][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.31-19.25.29:387][216]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.31-19.25.29:387][216]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.31-19.25.29:387][216]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.31-19.25.29:389][216]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.31-19.25.29:426][216]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek(R) Audio)
+[2022.08.31-19.25.29:426][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.31-19.25.29:426][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.31-19.25.29:426][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.31-19.25.29:427][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2022.08.31-19.25.29:427][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2022.08.31-19.25.29:428][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2022.08.31-19.25.29:429][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2022.08.31-19.25.29:429][216]LogInit: FAudioDevice initialized.
+[2022.08.31-19.25.29:429][216]LogAudio: Display: Audio Device (ID: 32) registered with world 'Map_HeavenlyHell'.
+[2022.08.31-19.25.29:439][216]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.31-19.25.29:443][216]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Map_HeavenlyHell.Map_HeavenlyHell up for play (max tick rate 0) at 2022.08.31-16.25.29
+[2022.08.31-19.25.29:443][216]LogWorld: Bringing up level for play took: 0.003733
+[2022.08.31-19.25.29:445][216]LogOnline: OSS: Created online subsystem instance for: :Context_117
+[2022.08.31-19.25.29:447][216]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2180.000 Y=1180.000 Z=4679.082
+[2022.08.31-19.25.29:447][216]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.31-19.25.29:448][216]PIE: Server logged in
+[2022.08.31-19.25.29:449][216]PIE: Play in editor total start time 0.13 seconds.
+[2022.08.31-19.25.33:203][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-19.25.33:204][522]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Map_HeavenlyHell
+[2022.08.31-19.25.33:204][522]LogWorld: UWorld::CleanupWorld for Map_HeavenlyHell, bSessionEnded=true, bCleanupResources=true
+[2022.08.31-19.25.33:204][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.31-19.25.33:218][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.31-19.25.33:227][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.31-19.25.33:277][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.31-19.25.33:277][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.08.31-19.25.33:279][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.08.31-19.25.33:283][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-19.25.33:287][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.08.31-19.25.33:321][523]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2022.08.31-19.25.48:230][984]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.25.48:333][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.08.31-19.25.48:679][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.25.48:717][  3]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.25.48:718][  3]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacterF0BE6C6D44C07BBE7543FC9A00069B83.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.25.48:733][  3]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.25.48:733][  3]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.26.07:135][678]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.26.07:230][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.08.31-19.26.07:512][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.26.07:547][688]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.26.07:548][688]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacter409339B14ABB9B30E266A08F737A0590.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.26.07:567][688]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.26.07:567][688]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.26.24:830][329]BlueprintLog: New page: Compile SM_MainCharacter
+[2022.08.31-19.26.24:924][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.08.31-19.26.25:345][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.26.25:379][353]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.26.25:380][353]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacterFCDE67AB4DB383DDF6B34684AFAE5FF4.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.26.25:397][353]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.26.25:397][353]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
+[2022.08.31-19.26.26:829][456]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.31-19.26.26:837][456]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.31-19.26.26:837][456]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.31-19.26.26:837][456]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.31-19.26.26:837][456]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.31-19.26.26:837][456]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.31-19.26.26:837][456]LogWorldPartition: Display: GetPartitionedActors took 57 us
+[2022.08.31-19.26.26:837][456]LogWorldPartition: Display: GenerateStreaming took 283 us
+[2022.08.31-19.26.26:838][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.31-19.26.26:838][456]PIE: New page: PIE session: Map_HeavenlyHell (Aug 31, 2022, 1:26:26 PM)
+[2022.08.31-19.26.26:838][456]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Map_HeavenlyHell
+[2022.08.31-19.26.26:846][456]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.31-19.26.26:846][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007898s)
+[2022.08.31-19.26.26:846][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Map_HeavenlyHell.Map_HeavenlyHell to /Game/ThirdPerson/Maps/UEDPIE_0_Map_HeavenlyHell.Map_HeavenlyHell (0.007964s)
+[2022.08.31-19.26.26:846][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.31-19.26.26:846][456]LogAIModule: Creating AISystem for world Map_HeavenlyHell
+[2022.08.31-19.26.26:847][456]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.31-19.26.26:847][456]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.31-19.26.26:849][456]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.08.31-19.26.26:849][456]LogPlayLevel: PIE: World Init took: (0.002768s)
+[2022.08.31-19.26.26:898][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.08.31-19.26.26:902][456]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.08.31-19.26.26:902][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.31-19.26.26:902][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.31-19.26.26:902][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.31-19.26.26:902][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.31-19.26.26:902][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.31-19.26.26:902][456]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.31-19.26.26:902][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.31-19.26.26:902][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.31-19.26.26:903][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.31-19.26.26:903][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.31-19.26.26:903][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.31-19.26.26:904][456]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.31-19.26.26:940][456]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek(R) Audio)
+[2022.08.31-19.26.26:941][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.31-19.26.26:941][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.31-19.26.26:941][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.31-19.26.26:941][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2022.08.31-19.26.26:941][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2022.08.31-19.26.26:943][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2022.08.31-19.26.26:943][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2022.08.31-19.26.26:943][456]LogInit: FAudioDevice initialized.
+[2022.08.31-19.26.26:943][456]LogAudio: Display: Audio Device (ID: 33) registered with world 'Map_HeavenlyHell'.
+[2022.08.31-19.26.26:953][456]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.31-19.26.26:957][456]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Map_HeavenlyHell.Map_HeavenlyHell up for play (max tick rate 0) at 2022.08.31-16.26.26
+[2022.08.31-19.26.26:957][456]LogWorld: Bringing up level for play took: 0.003587
+[2022.08.31-19.26.26:959][456]LogOnline: OSS: Created online subsystem instance for: :Context_118
+[2022.08.31-19.26.26:961][456]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2180.000 Y=1180.000 Z=4679.082
+[2022.08.31-19.26.26:961][456]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.31-19.26.26:962][456]PIE: Server logged in
+[2022.08.31-19.26.26:963][456]PIE: Play in editor total start time 0.126 seconds.
+[2022.08.31-19.26.28:913][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-19.26.28:913][608]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Map_HeavenlyHell
+[2022.08.31-19.26.28:914][608]LogWorld: UWorld::CleanupWorld for Map_HeavenlyHell, bSessionEnded=true, bCleanupResources=true
+[2022.08.31-19.26.28:914][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.31-19.26.28:927][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.31-19.26.28:936][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.31-19.26.28:985][608]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.31-19.26.28:985][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.08.31-19.26.28:987][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.08.31-19.26.28:991][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.31-19.26.28:994][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.08.31-19.26.29:028][609]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2022.08.31-19.26.45:399][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.08.31-19.26.46:654][ 38]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.31-19.26.46:771][ 38]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/NPCs/Light/Animations/BS1D_Light_IdleWalkRunBackwards.BS1D_Light_IdleWalkRunBackwards
+	Asset Type: BlendSpace1D
+[2022.08.31-19.26.47:436][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.08.31-19.26.47:489][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.08.31-19.26.47:542][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.08.31-19.26.51:192][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.08.31-19.26.51:251][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPCs/Light/SM_MainCharacter" FILE="../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset" SILENT=true
+[2022.08.31-19.26.51:285][264]LogSavePackage: Moving output files for package: /Game/Characters/NPCs/Light/SM_MainCharacter
+[2022.08.31-19.26.51:286][264]LogSavePackage: Moving '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Saved/SM_MainCharacter0CB863094DE25EA9D25A3D93D41D1367.tmp' to '../../../../../Epic/Projects/2022EpicMegaJam/MegaJam/Content/Characters/NPCs/Light/SM_MainCharacter.uasset'
+[2022.08.31-19.26.51:306][264]AssetCheck: New page: Asset Save: SM_MainCharacter
+[2022.08.31-19.26.51:306][264]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/NPCs/Light/SM_MainCharacter.SM_MainCharacter
